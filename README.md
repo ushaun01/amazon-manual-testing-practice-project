@@ -126,7 +126,7 @@ Order should be placed and confirmation message displayed
 
 | ---------------- | ------ | ------ | -------------- |
 
-| 5                | 5      | 0      | 05-05-2026     |
+| 5                 | 5       | 0       | 05-05-2026     |
 
 
 
