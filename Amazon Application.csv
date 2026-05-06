@@ -1,0 +1,13 @@
+﻿Project Name,Amazon Application,,,,,,,,,
+Created By,Ulesha,,,,,,,,,
+Creation Date,02-05-2026,,,,,,,,,
+Reviewed By,Preeti,,,,,,,,,
+Reviewed Date,07-05-2026,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Test Case ID,Test Case Title,Test Objective,Test Environment,Pre Condition,Test Steps,Test Data,Expected Result,Actual Result,Status,Executed Date
+TC001,Login Functionality,Verify User Login,"Andriod App,iOS App,Web",User is logged out,1.Open App     2.Enter user name and password,Valid name and password,User is on login screen,User is directed to login screen,Pass,03-05-2026
+TC002,Search for Product,Verify product search,"Andriod App,iOS App,Web",User is logged in,Enter product name in search bar,Product name is Mobile Phone,Search results appears,Relevant search result are display,Pass,03-05-2026
+TC003,Add product to cart,Verify the product adding,"Andriod App,iOS App,Web",1.User is logged in.     2. Prdouct is open,1.Navigate to product page            2. Click to add to cart button                      3.Open cart,Mobile phone,Product page is displayed,Product page is displayed,Pass,05-05-2026
+TC004,Apply  Promo Code,Verify Promo Code Application,"Andriod App,iOS App,Web",User is in verified process,1.Enter the promo code                                  ,"Promocode:                 ""Winter20""        ",1.Promo code is entered.                      2.Discount is applied,Product page is displayed,Pass,05-05-2026
+TC005,Place a Order,Verify order is placed,"Andriod App,iOS App,Web",1.Product is in add to cart                               ,"1. After applying promo code, Go to place order button.                      2. Click On place a Order button",Mobile phone,Order is placed,Order is placed successfully,Pass,05-05-2026
